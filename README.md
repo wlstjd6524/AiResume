@@ -24,7 +24,7 @@ AI 기반 이력서 분석 및 직무 적합도 평가 시스템
 - 기준 이력서를 통한 맞춤형 인재 추천 기능 구현
   
 ## 🔨 프로젝트 아키텍처
-![Image](https://github.com/user-attachments/assets/c5bf52bd-b4ef-4ced-ab84-ea67315c394d)
+![Image](https://github.com/user-attachments/assets/1be532ee-749c-4f18-8097-2246e98e7191)
 
 ## 🔍 주요 기능
 - 이력서 자동 전처리 및 정제 (소문자화, 불용어 제거, 표제어 추출 등)
@@ -35,17 +35,17 @@ AI 기반 이력서 분석 및 직무 적합도 평가 시스템
 
 ## 📱출력
 - 클러스터 기반 평가 main.py 컴파일 결과 <br> <br>
-![Image](https://github.com/user-attachments/assets/56e66667-ddc9-408e-9d56-11e8d1675d91)
+![Image](https://github.com/user-attachments/assets/4dab05b3-a365-4c21-bc30-4daabc28357c)
 
-![Image](https://github.com/user-attachments/assets/85a8b503-4776-40b3-b504-39f38c289fdf)
+![Image](https://github.com/user-attachments/assets/79d07397-0a57-4ba0-9a88-7f7772d3639b)
 
-![Image](https://github.com/user-attachments/assets/a1aad515-9a9b-443a-83c4-592b6ece2f03)
+![Image](https://github.com/user-attachments/assets/6d198062-050f-4de2-a07b-01d5fc86e073)
 
-![Image](https://github.com/user-attachments/assets/4e6861b8-2f24-43bd-abee-e17ece460bbc)
+![Image](https://github.com/user-attachments/assets/1fd640c8-4e5d-4f66-9878-7d5d4c23f100)
 
-![Image](https://github.com/user-attachments/assets/5515c5e5-ded0-47dc-8896-30c7d71ebea9)
+![Image](https://github.com/user-attachments/assets/7b3b9512-22a1-4b48-9d0d-23fc69964183)
 
 - 기준 이력서 기반 평가 reference_base_scoring.py 컴파일 결과 <br> <br>
-![Image](https://github.com/user-attachments/assets/511496dd-2996-42b4-9e4c-2286e81235c9)
+![Image](https://github.com/user-attachments/assets/2c92411a-cde6-41a0-96a8-63b54f34e912)
 
-![Image](https://github.com/user-attachments/assets/0d39b177-1ffa-4527-9113-f9300e4a3eb8)
+![Image](https://github.com/user-attachments/assets/c1783f78-17b5-4317-a8bb-f5281cea72ef)
